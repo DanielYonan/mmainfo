@@ -1,0 +1,286 @@
+
+@media (min-width: 91em) and (max-width: 97em)  {
+  
+html {
+  margin:0;
+  padding:0;
+  overflow-x:hidden;   
+  font-family: sans-serif;
+  font-size: 0.93em; 
+}
+  
+h1 { 
+
+position: relative; 
+left: 23em; 
+}    
+
+h2 { 
+
+position: relative; 
+left: 30.5em;
+border-style: solid; 
+border-color: black; 
+width:7em;
+
+}
+
+h3 { 
+
+position: relative; 
+left: 43.5em;
+
+}
+
+
+
+nav { 
+
+position: relative; 
+left: 21em;   
+width: 83em;  
+  
+margin-bottom: 3em;
+   
+padding-top: 4em; 
+padding-bottom: 0.05em;
+  
+font-size: 1.5em; 
+color: #c7c7c7
+}   
+
+
+table { 
+
+margin-bottom: 4em;
+
+}
+
+
+td { 
+font-size: 0.9em; 
+padding: 0.4em;
+
+}
+
+
+
+
+th {  
+  background-color: #aab0b5; 
+} 
+
+.bild {  
+  
+  position: relative; 
+  float: left; 
+  margin-bottom: 1em;
+  
+} 
+
+.flybild { 
+
+  position: relative;  
+  float:left;  
+  margin-left: 2em;
+
+} 
+
+.lightbild { 
+  
+  position: relative;  
+  float:left;  
+  margin-left: 2em;
+
+}
+
+.lightheavybild { 
+
+  position:relative;
+  float: left;
+  margin-left: 16em;
+
+}
+
+.wstrawbild {  
+  
+  
+  position: relative;  
+  float:left;  
+  margin-left: 2.6em;
+  margin-top:2em;
+
+
+} 
+
+
+
+.p4pbild { 
+  position:relative;
+  float: left;
+  margin-left: 13em;
+
+}
+
+
+.fly { 
+position:relative;
+float: left; 
+
+  
+}
+
+.bantam { 
+
+position:relative;
+  float: left;   
+
+
+
+} 
+
+.feather { 
+position:relative;
+  float: left; 
+
+} 
+
+.light { 
+
+position:relative; 
+float: left;
+
+
+}   
+
+.welter { 
+
+position:relative;
+  float: left;  
+
+
+}  
+
+.middle { 
+
+position:relative;
+  float: left; 
+}
+
+.lightheavy { 
+
+position:relative;
+  float: left; 
+
+} 
+
+.heavy { 
+ 
+  position:relative; 
+  float: left; 
+  margin-right: 5em;
+
+} 
+
+.straw { 
+
+position:relative;
+float:left; 
+
+} 
+
+.wfly { 
+
+position: relative;
+float:left; 
+
+} 
+
+.wbantam { 
+  
+position: relative;
+float: left; 
+
+} 
+
+.wfeather { 
+  
+position: relative;
+float: left; 
+
+} 
+
+.p4p { 
+
+position: relative;
+float: left; 
+} 
+
+.wp4p { 
+position: relative;
+float:left; 
+}  
+  
+
+  
+  .sectionbild{ 
+position:relative; 
+float:right; 
+margin: 4em 5em;
+
+}
+  
+  .sectionbild1{ 
+position:relative; 
+float:right; 
+margin: 8em 5em;
+
+}
+  
+  .sectionbild2{ 
+position:relative; 
+float:right; 
+margin: 6em 5em;
+
+
+}
+  
+  .sectionbild3{ 
+position:relative; 
+float:right; 
+margin: 3em 5em;
+
+
+}
+  
+  .sectionbild4{ 
+position:relative; 
+float:right; 
+margin: 5.5em 5em;
+
+
+}
+  
+  .sectionbild5{ 
+position:relative; 
+float:right; 
+margin: 9em 5em;
+
+
+} 
+  
+.sectionbildladd{ 
+position:relative; 
+float:right; 
+margin: 2.2em 5em;
+
+}
+  
+.lista { 
+
+position: relative;
+left: 44em;
+
+}
+  
+}

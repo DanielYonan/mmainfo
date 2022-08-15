@@ -1,0 +1,40 @@
+
+Feedback från testare: 
+
+- Starttider (GMT zoner osv) 
+
+- Mer luftig och tydlig "home" sida. Last event - Next event. 
+
+- Eventuellt testa med mörk bakgrund-ljus text 
+
+- Fixa visulla smådetaljer med inkonsekvent position på olika element, 
+
+- upcoming: posters förhållande till tabell, tighta till inre border så den precis går runt poster+tabell
+
+- Implementera alla "prototyp-funktioner". Ex: sökfunktion mm.   
+
+- Ha P4P högst upp i fighters-sidan  
+
+- Konto, prenumerationer (subba till specifika viktklasser tex), 
+
+- push-notiser före och efter events 
+
+- vit text i header (home,rankings,events etc)  
+
+
+Långsiktgt:   
+
+- Konto, prenumerationer (subba till specifika viktklasser tex)
+
+- push-notiser före och efter events  
+
+- Starttider (GMT zoner osv)  
+
+- Implementera alla "prototyp-funktioner". Ex: sökfunktion mm.    
+
+
+Nordic Entertainment Group 
+
+https://stockholm.drivhuset.se/
+
+

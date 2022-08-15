@@ -1,0 +1,608 @@
+¨/* CSS files add styling rules to your content */ 
+
+h1 {
+  font-style: normal;
+  color: red;
+} 
+
+header { 
+  border-style: solid;
+  border-color: black; 
+  margin-top: 0.5em; 
+  margin-bottom: 1em; 
+  
+  outline-style: solid; 
+  outline-color: black ;
+
+} 
+
+section { 
+border-style: solid;  
+border-color: black;     
+
+width: 58em; 
+height: 55.3em;   
+  
+outline-style: solid; 
+outline-color: black ; 
+  
+ 
+
+}
+
+
+body { 
+  
+letter-spacing: 0.03em;
+background-color: #F9F7F5; 
+
+font-family: "Times New Roman", Times, serif;  
+font-weight: bold;
+color: black; 
+  
+   
+}
+
+h1 { 
+position: relative; 
+top: 0.5em; 
+left: 18em;   
+width: 10em; 
+max-width: 10em; 
+max-height: 10em; 
+min-width: 1em; 
+min-height: 1em; 
+ 
+margin: 0,5em;   
+
+padding: 1em;  
+    
+  
+color: grey;  
+font-size:2em;  
+}   
+
+
+
+nav { 
+
+position: relative; 
+top: 0.7em; 
+left: 0.5em;   
+width: 83em;  
+margin: 1em;    
+margin-left: 1em;   
+
+  
+padding: 1em;
+  
+  
+border-style: solid;    
+border-width:0.05em;  
+vertical-align: center;  
+  
+outline-style: solid; 
+outline-color: black ;
+ 
+
+
+}  
+
+
+
+.section-header { 
+
+  border-style: solid; 
+  border-width:0.1em;
+  margin: 1em;  
+  
+  padding: 1em;
+
+}
+
+
+article { 
+
+border-style: solid; 
+border-color: black;  
+border-width: 0.1em;
+margin: 1em;  
+  
+padding: 1.1em;   
+  
+outline-style: solid; 
+outline-color: black;
+
+  
+}
+
+aside { 
+
+  position: relative;  
+  left: 58.9em;   
+  top: -57.3em;
+  
+  
+  width: 28.5em;
+  height: 54.13em;
+  
+  
+  border-style: solid;  
+  border-width: 0.2em; 
+  boder-color: black;
+  margin-top: 1.7em;
+  margin-right: 1em;
+  
+  padding: 0.5em; 
+  
+  outline-style: solid; 
+  outline-color: black ; 
+  outline-width: 0.3em;
+
+} 
+
+footer {  
+  
+  
+  position: relative;
+  border-style:solid; 
+  margin-top: 1em;  
+  top: -57.5em;
+  padding: 1em; 
+  
+  outline-style: solid; 
+  outline-color: #8D9EC3;
+
+
+  
+  
+}
+
+video { 
+
+margin-left: 0.1em;   
+float: left; 
+
+
+} 
+
+form { 
+
+  overflow: auto; 
+  padding: 0.3em;  
+  
+
+} 
+
+:focus {
+  background-color: yellow;  
+  
+}
+
+
+
+ 
+h3 {  
+  color: #B1BCD3;
+
+} 
+
+.article-class { 
+
+column-count: 2;
+column-width: 1em; 
+padding: 1em;
+
+}
+ 
+
+a:link {
+  color: #0844C3;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+} 
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+} 
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+} 
+
+p { 
+
+  color: blue; 
+  font-style: italic; 
+
+} 
+
+h5 { 
+
+  color: black; 
+  font-style: italic;  
+  font-size: 1.8em; 
+  top: 0em;
+
+} 
+
+
+ul {
+  list-style-type: square;
+  list-style-position: outside;
+} 
+
+dl {
+  list-style-type: square;
+  list-style-position: outside; 
+  font-style: italic;
+} 
+
+table { 
+
+table-layout: auto;
+
+} 
+
+figcaption { 
+
+float: right; 
+position: relative;  
+margin-top: 6em;  
+margin-right: 15em;
+
+
+} 
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 90em;
+  min-height: 40em;
+} 
+
+.content {
+  position: fixed;
+  bottom: 0; 
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: red;
+  width: 93em; 
+  height: 10em;
+  padding: 0.5em;
+} 
+
+#myBtn {
+  width: 5em;
+  font-size: 1em;;
+  padding: 1em;;
+  border: none;
+  background: grey;
+  color: black;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}  
+
+h4 {  
+  
+  color: white; 
+  left: 20em;
+
+}
+
+#fname { 
+
+border-style: solid; 
+border-color: blue;
+
+} 
+
+
+#lname { 
+
+border-style: solid; 
+border-color: blue;
+
+} 
+
+#email { 
+
+border-style: solid; 
+border-color: blue;
+
+} 
+
+
+#skohylla { 
+
+border-style: solid; 
+border-color: blue; 
+background-image: url("https://cdn.glitch.com/1fe2f4b8-99af-4be4-a30a-a774d2f07e5c%2FSkor.png?v=1603288129702"); 
+     
+background-position: right;
+background-size: 1.5em;
+background-repeat: no-repeat; 
+z-index: 1;
+  
+
+
+} 
+
+
+#homepage { 
+
+border-style: solid; 
+border-color: blue;
+
+}
+ 
+
+#flerrad { 
+
+border-style: solid; 
+border-color: blue; 
+resize:none; 
+
+} 
+
+#djur { 
+
+border-style: solid; 
+border-color: blue;
+
+}  
+
+
+@media (max-width: 25rem) { 
+
+  header { 
+  position: static;  
+  width: 90%; 
+  float: left; 
+  margin: 1em; 
+  
+  
+  } 
+  
+  section { 
+  position: static; 
+  width: 90%;   
+  height: 100%;
+  margin: 1em;
+  float: left;
+  
+  } 
+  
+  aside { 
+  position: static;  
+  width: 86%;  
+  margin: 1em; 
+  float: left;
+  
+  }
+ 
+  footer { 
+  position: static;  
+  width: 81%; 
+  margin: 1em; 
+  float: left; 
+  } 
+  
+  nav { 
+  float: left; 
+  position: static;  
+  width: 85%; 
+  margin: 0.3em; 
+  font-size: 0.8em;
+  
+  } 
+  
+  h1 { 
+  float: left; 
+  position: static; 
+  margin: 0.2em;
+  
+  }  
+  
+  article { 
+  float: left; 
+  position: static;  
+  width: 75%; 
+  margin: 1em;
+  
+  } 
+  
+  img { 
+  
+  float: left; 
+  position: static;   
+  width: 10em; 
+  margin-left: 0em;
+  
+  
+  }  
+  
+  
+  audio { 
+  float: left; 
+  position: static; 
+  } 
+  
+  figcaption { 
+  float: left; 
+  position: relative;  
+  width: 10em; 
+  margin-left: 0em;
+  
+  }
+  
+  .article-class { 
+  float: left; 
+  position: static;  
+  width: 75%; 
+  margin: 1em;
+    
+  } 
+  
+  .section-header {  
+  float: left; 
+  position: static;  
+  width: 75%; 
+  margin: 1em;
+    
+  } 
+  
+  .section-footer {  
+  float: left; 
+  position: static;  
+  width: 75%; 
+  margin: 1em;
+  
+  } 
+  
+  
+  video { 
+  width: 13em;
+  
+  }
+
+} 
+
+
+@media (min-width: 25rem) and (max-width: 50rem) { 
+
+  header { 
+  position: static;  
+  width: 90%; 
+  float: left; 
+  margin: 1em;   
+  height: 200%;
+  
+  
+  } 
+  
+  section { 
+  position: static; 
+  width: 90%;   
+  height: 100%;
+  margin: 1em;
+  float: left;
+  
+  } 
+  
+  aside { 
+  position: static;  
+  width: 88%;  
+  margin: 1em; 
+  float: left;
+  
+  }
+ 
+  footer { 
+  position: static;  
+  width: 86%; 
+  margin: 1em; 
+  float: left; 
+  } 
+  
+  nav { 
+  float: left; 
+  position: static;  
+  width: 86%; 
+  margin: 1em; 
+  font-size: 0.8em;
+  
+  } 
+  
+  h1 { 
+  float: left; 
+  position: static; 
+  margin: 0.2em;
+  
+  }  
+  
+  article { 
+  float: left; 
+  position: static;  
+  width: 84%; 
+  margin: 1em;
+  
+  } 
+  
+  img { 
+  
+  float: left; 
+  position: static;   
+  widht: 10em;
+  
+  
+  }  
+  
+  
+  audio { 
+  float: left; 
+  position: static; 
+  } 
+  
+  figcaption { 
+  float: left; 
+  position: static; 
+  
+  }
+  
+  .article-class { 
+  float: left; 
+  position: static;  
+  width: 85%; 
+  margin: 1em;
+    
+  } 
+  
+  .section-header {  
+  float: left; 
+  position: static;  
+  width: 85%; 
+  margin: 1em;
+    
+  } 
+  
+  .section-footer {  
+  float: left; 
+  position: static;  
+  width: 85%; 
+  margin: 1em;
+  
+  } 
+  
+
+  
+  
+@media print { 
+   
+  body { 
+  color: none;
+  column-count: 0;  
+  }
+  
+  }
+
+}
+
+
+
+
