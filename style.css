@@ -1,0 +1,1586 @@
+html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+  font-family: sans-serif;
+  font-size: 0.93em;
+}
+#homehtml {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+  font-family: sans-serif;
+  font-size: 0.93em;
+  overflow-y: hidden;
+}
+
+header {
+  background-color: #edf1f7;
+  background-image: url("https://cdn.glitch.me/da898168-9288-417d-8883-77b6463a837d%2Fbur2.png?v=1638976401866");
+  background-size: cover;
+
+  color: #c7c7c7;
+  opacity: 1;
+  height: 14em;
+
+  margin-bottom: 1em;
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  top: 5em;
+}
+
+#search {
+  position: relative;
+  right: -62em;
+  top: -3.5em;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+pre {
+  font-size: 1.2em;
+}
+
+section {
+  padding-top: 3em;
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  margin-bottom: 1em;
+  background-color: white;
+}
+
+h1 {
+  position: relative;
+  left: 18em;
+  font-family: sans-serif;
+  font-size: 2.4em;
+  top: -0.5em;
+}
+
+h2 {
+  margin-left: 4em;
+}
+
+p {
+  font-size: 0.9em;
+  margin-left: 0.1em;
+}
+
+b {
+  font-size: 1.8em;
+  position: relative;
+  margin-left: 0.7em;
+}
+
+.logo {
+  left: 39em;
+  top: -3.7em;
+  position: relative;
+}
+
+#bfrancis {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 0.3em;
+}
+
+#lol {
+  margin-left: 4.3em;
+  width: 90%;
+}
+
+#hometabell {
+  width: 47%;
+  margin-left: 0.2em;
+  margin-top: 1.6em;
+}
+#hometabell2 {
+  width: 48%;
+  margin-left: 1.6em;
+  margin-top: 1.6em;
+}
+
+small {
+  position: relative;
+  margin-left: 2em;
+  margin-bottom: 1em;
+  font-weight: ;
+  font-size: 1.1em;
+}
+
+nav {
+  position: relative;
+  left: 19em;
+  width: 83em;
+
+  margin-bottom: 3em;
+
+  padding-top: 0.1em;
+  padding-bottom: 0.05em;
+
+  font-size: 1.5em;
+  color: red;
+  display: inline-block;
+}
+
+.upcoming {
+  width: 45em;
+  margin-top: 1em;
+  padding-left: 15em;
+}
+.upcomingfrancis {
+  width: 42em;
+  margin-top: 1em;
+  padding-left: 15em;
+}
+
+.upcomingtitel {
+  left: 17em;
+}
+#upcomingdatum {
+  left: 30em;
+  width: 10em;
+}
+#upcomingdatum1 {
+  left: 10em;
+}
+
+.kattarposter {
+  float: right;
+  padding-right: 18em;
+  padding-top: 2.8em;
+}
+.francisposter {
+  float: right;
+  padding-right: 18em;
+  padding-top: 2.8em;
+}
+.francisposter2 {
+  float: right;
+  padding-right: 18em;
+  padding-top: 3.9em;
+}
+
+.izzyposter {
+  float: right;
+  padding-right: 18em;
+  padding-top: 2.8em;
+}
+
+.kattarborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  width: 87em;
+  margin-left: 4em;
+  margin-bottom: 2em;
+}
+
+table {
+  margin-bottom: 4em;
+}
+
+.table1 {
+  margin-bottom: 4em;
+  width: 55%;
+}
+
+.hometable100 {
+  width: 54em;
+  margin-top: 1em;
+}
+
+#hometitel {
+  top: 0.4em;
+}
+
+#homedatum {
+  top: 0.7em;
+}
+
+tr:nth-child(even) {
+  background-color: #edf1f7;
+}
+
+td {
+  font-size: 0.9em;
+  padding: 0.4em;
+}
+
+#td1 {
+  padding-left: 2.3em;
+}
+
+#td2 {
+  padding-left: 1.4em;
+}
+
+#td3 {
+  padding-left: 1.2em;
+}
+
+#td4 {
+  padding-left: 2.5em;
+}
+
+#td5 {
+  padding-left: 2.6em;
+}
+
+#td6 {
+  padding-left: 1.9em;
+}
+
+#td7 {
+  padding-left: 0.8em;
+}
+
+th {
+  background-color: #454747;
+  color: white;
+}
+
+a.nav:link {
+  color: gray;
+}
+
+a.nav:visited {
+  color: gray;
+}
+a.nav:hover {
+  color: red;
+  background-color: transparent;
+}
+a.nav:active {
+  background-color: transparent;
+}
+
+a:link {
+  color: #1c258a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1c258a;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+}
+
+a:active {
+  background-color: transparent;
+}
+
+aside {
+  position: relative;
+  left: 54.5em;
+  top: -34.55em;
+  width: 41em;
+  height: 34em;
+
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  background-color: white;
+}
+
+#home {
+  position: relative;
+  width: 54em;
+  height: 34em;
+  top: -0.42em;
+
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  background-color: white;
+}
+
+label {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+}
+
+.smeknamncontainer {
+  display: flex;
+}
+
+#francis {
+  margin-top: 0.6em;
+  margin-left: 3em;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#smeknamn {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-left: 6em;
+}
+
+#gane {
+  margin-left: 6.5em;
+  margin-top: 0.6em;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#smeknamn2 {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-left: 11.35em;
+}
+
+.francishome {
+  float: left;
+  margin-left: 0.3em;
+}
+
+.francisflag {
+  margin-top: 2em;
+  marign-left: 3em;
+  position: relative;
+  left: 6em;
+}
+
+.ganeflag {
+  position: relative;
+  left: 16em;
+}
+
+.ganehome {
+  float: right;
+  margin-right: 0.3em;
+}
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 0.5em;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  left: 43em;
+  margin-bottom: 1em;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 0.8em;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.lista {
+  position: relative;
+  left: 42em;
+  margin-bottom: 2em;
+}
+
+.borders {
+  width: 20em;
+}
+
+#morenoborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+
+  height: 32em;
+  padding: 0.2em;
+  width: 30.7em;
+  background-color: white;
+  margin-left: 0.5em;
+}
+
+#aljoborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 30.7em;
+  background-color: white;
+}
+
+#volkanborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 31em;
+  background-color: white;
+}
+
+#charlesborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 30.7em;
+  background-color: white;
+  margin-left: 0.5em;
+}
+#usmanborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 30.7em;
+  background-color: white;
+}
+#izzyborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 31em;
+  background-color: white;
+}
+#gloverborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+
+  margin-left: 15em;
+  height: 32em;
+  padding: 0.2em;
+  width: 32.8em;
+  background-color: white;
+}
+#francisborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 30.7em;
+  background-color: white;
+}
+#roseborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 30.7em;
+  background-color: white;
+  margin-left: 0.35em;
+}
+#valentinaborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 31em;
+  background-color: white;
+}
+#penaborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 32em;
+  padding: 0.2em;
+  width: 31.3em;
+  background-color: white;
+}
+#p4pborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  margin-left: 13em;
+  height: 30.6em;
+  padding: 0.2em;
+  width: 35em;
+  background-color: white;
+}
+#wp4pborder {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+
+  display: inline-block;
+  height: 30.6em;
+  padding: 0.2em;
+  width: 37em;
+  background-color: white;
+}
+
+.sectionbildcharles {
+  position: relative;
+  float: right;
+  margin-right: 3em;
+  margin-top: 8em;
+}
+
+.sectionbildaldo {
+  position: relative;
+  float: right;
+  margin-right: 2em;
+  margin-top: 6em;
+}
+
+.sectionbild {
+  position: relative;
+  float: right;
+  margin-right: 1.6em;
+  margin-top: 3em;
+}
+
+.sectionbild1 {
+  position: relative;
+  float: right;
+  margin-top: 6em;
+  margin-right: 3.3em;
+}
+
+.sectionbild2 {
+  position: relative;
+  float: right;
+  margin-top: 6em;
+  margin-right: 1.6em;
+}
+
+.sectionbild3 {
+  position: relative;
+  float: right;
+  margin-top: 1.8em;
+  margin-right: 1.6em;
+}
+
+.sectionbild4 {
+  position: relative;
+  float: right;
+  margin-top: 4em;
+  margin-right: 1.6em;
+}
+
+.sectionbild5 {
+  position: relative;
+  float: right;
+  margin-top: 8em;
+  margin-right: 1.6em;
+}
+
+.sectionbildladd {
+  position: relative;
+  float: right;
+  margin-top: 2.5em;
+  margin-right: 1.3em;
+}
+
+.bild {
+  position: relative;
+  float: left;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.flybild {
+  position: relative;
+  float: left;
+  margin-top: 2em;
+}
+
+.lightbild {
+  position: relative;
+  float: left;
+  margin-top: 2em;
+}
+
+.lightheavybild {
+  position: relative;
+  float: left;
+  margin-top: 2em;
+}
+
+.wstrawbild {
+  position: relative;
+  float: left;
+  margin-top: 2em;
+}
+
+.p4pbild {
+  position: relative;
+  float: left;
+
+  margin-top: 2em;
+}
+
+.fly {
+  position: relative;
+  float: left;
+}
+
+.bantam {
+  position: relative;
+  float: left;
+}
+
+.feather {
+  position: relative;
+  float: left;
+}
+
+.light {
+  position: relative;
+  float: left;
+}
+
+.welter {
+  position: relative;
+  float: left;
+}
+
+.middle {
+  position: relative;
+  float: left;
+}
+
+.lightheavy {
+  position: relative;
+  float: left;
+}
+
+.heavy {
+  position: relative;
+  float: left;
+}
+
+.straw {
+  position: relative;
+  float: left;
+}
+
+.wfly {
+  position: relative;
+  float: left;
+}
+
+.wbantam {
+  position: relative;
+  float: left;
+}
+
+.wfeather {
+  position: relative;
+  float: left;
+}
+
+.p4p {
+  position: relative;
+  float: left;
+}
+
+.wp4p {
+  position: relative;
+  float: left;
+}
+
+.fighterrubrik {
+  position: relative;
+  margin-left: 16em;
+  font-family: sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.fighterrubrik1 {
+  position: relative;
+  margin-left: 15.5em;
+  font-family: sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.fighterrubrik2 {
+  position: relative;
+  margin-left: 17em;
+  font-family: sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.fightersmeknamn {
+  position: relative;
+  margin-left: 27.15em;
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
+
+.fightersmeknamn1 {
+  position: relative;
+  margin-left: 30em;
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
+
+.fightersmeknamn2 {
+  position: relative;
+  margin-left: 29.7em;
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
+
+#fighterinfo {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  background-color: white;
+}
+
+#info {
+  position: relative;
+  margin-top: 2em;
+  left: 1em;
+}
+
+#ii {
+  position: relative;
+  float: left;
+}
+
+#fhtitel {
+  left: 22.9em;
+}
+
+#fh {
+  border-style: solid;
+  border-color: #dee0e3;
+  border-width: thin;
+  margin-top: 1em;
+  background-color: white;
+}
+#infocontainer {
+  left: 10em;
+  position: relative;
+}
+
+.fighterinfobild {
+  float: left;
+  position: relative;
+  margin-top: -4em;
+  margin-left: 20em;
+}
+
+.fighterinfobild2 {
+  float: left;
+  position: relative;
+  margin-top: -21.6em;
+  margin-left: 62.5em;
+}
+
+.fighterinfobild3 {
+  float: left;
+  position: relative;
+  margin-top: -21.6em;
+  margin-left: 63.6em;
+}
+
+.fighterinfoflagga {
+  float: left;
+  position: relative;
+  margin-top: -21.6em;
+  margin-left: 60.7em;
+}
+
+@media (min-width: 91em) and (max-width: 97em) {
+  html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+    font-family: sans-serif;
+    font-size: 0.93em;
+  }
+
+  #homehtml {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+    font-family: sans-serif;
+    font-size: 0.93em;
+    overflow-y: hidden;
+  }
+
+  header {
+    background-color: #edf1f7;
+    background-image: url("https://cdn.glitch.me/da898168-9288-417d-8883-77b6463a837d%2Fbur2.png?v=1638976401866");
+    background-size: cover;
+
+    color: #c7c7c7;
+    opacity: 1;
+    height: 14em;
+
+    margin-bottom: 1em;
+    border-style: solid;
+    border-color: #dee0e3;
+    top: 5em;
+  }
+
+  #search {
+    position: relative;
+    right: -62em;
+    top: -3.5em;
+  }
+
+  body {
+    /* background-image: url("https://cdn.glitch.me/da898168-9288-417d-8883-77b6463a837d%2Fcage.jpg?v=1639059405681");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  */
+  }
+
+  pre {
+    font-size: 1.2em;
+  }
+
+  section {
+    padding-top: 3em;
+    border-style: solid;
+    border-color: #dee0e3;
+    margin-bottom: 1em;
+    border-width: thin;
+  }
+
+  h1 {
+    position: relative;
+    left: 18em;
+    font-family: sans-serif;
+    font-size: 2.4em;
+    top: -0.5em;
+  }
+
+  h2 {
+    margin-left: 4em;
+  }
+
+  p {
+    font-size: 0.9em;
+    margin-left: 0.1em;
+  }
+
+  b {
+    font-size: 1.8em;
+    position: relative;
+    margin-left: 0.7em;
+  }
+
+  .logo {
+    left: 39em;
+    top: -3.7em;
+    position: relative;
+  }
+
+  #bfrancis {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 0.3em;
+  }
+
+  #lol {
+    margin-left: 4.3em;
+    width: 90%;
+  }
+
+  #hometabell {
+    width: 47%;
+    margin-left: 0.2em;
+    margin-top: 3.4em;
+  }
+  #hometabell2 {
+    width: 48%;
+    margin-left: 1.6em;
+    margin-top: 3.4em;
+  }
+
+  small {
+    position: relative;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    font-weight: ;
+    font-size: 1.1em;
+  }
+
+  nav {
+    position: relative;
+    left: 19em;
+    width: 83em;
+
+    margin-bottom: 3em;
+
+    padding-top: 0.1em;
+    padding-bottom: 0.05em;
+
+    font-size: 1.5em;
+    color: red;
+    display: inline-block;
+  }
+
+  table {
+    margin-bottom: 4em;
+  }
+
+  tr:nth-child(even) {
+    background-color: #edf1f7;
+  }
+
+  td {
+    font-size: 0.9em;
+    padding: 0.4em;
+  }
+
+  #td1 {
+    padding-left: 2.3em;
+  }
+
+  #td2 {
+    padding-left: 1.4em;
+  }
+
+  #td3 {
+    padding-left: 1.2em;
+  }
+
+  #td4 {
+    padding-left: 2.5em;
+  }
+
+  #td5 {
+    padding-left: 2.6em;
+  }
+
+  #td6 {
+    padding-left: 1.9em;
+  }
+
+  th {
+    background-color: #454747;
+    color: white;
+  }
+
+  a.nav:link {
+    color: gray;
+  }
+
+  a.nav:visited {
+    color: gray;
+  }
+  a.nav:hover {
+    color: red;
+    background-color: transparent;
+  }
+  a.nav:active {
+    background-color: transparent;
+  }
+
+  a:link {
+    color: #1c258a;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #1c258a;
+  }
+
+  a:hover {
+    color: red;
+    background-color: transparent;
+  }
+
+  a:active {
+    background-color: transparent;
+  }
+
+  aside {
+    position: relative;
+    left: 54.5em;
+    top: -34.55em;
+    width: 41em;
+    height: 34em;
+
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+  }
+
+  #home {
+    position: relative;
+    width: 54em;
+    height: 34em;
+    top: -0.42em;
+
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+  }
+
+  label {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+  .container {
+    display: flex;
+  }
+
+  .smeknamncontainer {
+    display: flex;
+  }
+
+  #francis {
+    margin-top: 0.2em;
+    margin-left: 3em;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+
+  #smeknamn {
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+
+  #gane {
+    margin-left: 6.5em;
+    margin-top: 0.35em;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+
+  #smeknamn2 {
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+
+  .francishome {
+    float: left;
+    margin-left: 0.3em;
+  }
+
+  .francisflag {
+    margin-top: 0.5em;
+    marign-left: 3em;
+    position: relative;
+    left: 6em;
+  }
+
+  .ganeflag {
+    position: relative;
+    left: 16em;
+  }
+
+  .ganehome {
+    float: right;
+    margin-right: 0.3em;
+  }
+
+  .dropbtn {
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+
+    left: 43em;
+    margin-bottom: 1em;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 0.8em;
+    text-decoration: none;
+    display: block;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .lista {
+    position: relative;
+    left: 42em;
+    margin-bottom: 2em;
+  }
+
+  .borders {
+    width: 20em;
+  }
+
+  #morenoborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+
+    height: 32em;
+    padding: 0.2em;
+    width: 30.7em;
+    margin-left: 3.5em;
+  }
+
+  #aljoborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 30.7em;
+  }
+
+  #volkanborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 31em;
+  }
+
+  #charlesborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 30.7em;
+    margin-left: 3.5em;
+  }
+  #usmanborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 30.7em;
+  }
+  #izzyborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 31em;
+  }
+  #gloverborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+
+    margin-left: 18.5em;
+    height: 32em;
+    padding: 0.2em;
+    width: 32.8em;
+  }
+  #francisborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 30.7em;
+  }
+  #roseborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 30.7em;
+    margin-left: 3.5em;
+  }
+  #valentinaborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 31em;
+  }
+  #penaborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 31.3em;
+  }
+  #p4pborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    margin-left: 16.5em;
+    height: 32em;
+    padding: 0.2em;
+    width: 35em;
+  }
+  #wp4pborder {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+
+    display: inline-block;
+    height: 32em;
+    padding: 0.2em;
+    width: 37em;
+  }
+
+  .sectionbildcharles {
+    position: relative;
+    float: right;
+    margin-right: 4.5em;
+    margin-top: 8em;
+  }
+
+  .sectionbildaldo {
+    position: relative;
+    float: right;
+    margin-right: 3.5em;
+    margin-top: 6em;
+  }
+
+  .sectionbild {
+    position: relative;
+    float: right;
+    margin-right: 3.5em;
+    margin-top: 3em;
+  }
+
+  .sectionbild1 {
+    position: relative;
+    float: right;
+    margin-top: 6em;
+    margin-right: 5em;
+  }
+
+  .sectionbild2 {
+    position: relative;
+    float: right;
+    margin-top: 6em;
+    margin-right: 3.5em;
+  }
+
+  .sectionbild3 {
+    position: relative;
+    float: right;
+    margin-top: 1.8em;
+    margin-right: 3.5em;
+  }
+
+  .sectionbild4 {
+    position: relative;
+    float: right;
+    margin-top: 4em;
+    margin-right: 3.5em;
+  }
+
+  .sectionbild5 {
+    position: relative;
+    float: right;
+    margin-top: 8em;
+    margin-right: 3.5em;
+  }
+
+  .sectionbildladd {
+    position: relative;
+    float: right;
+    margin-top: 2.5em;
+    margin-right: 4.3em;
+  }
+
+  .bild {
+    position: relative;
+    float: left;
+    margin-bottom: 2em;
+    margin-top: 2em;
+  }
+
+  .flybild {
+    position: relative;
+    float: left;
+    margin-left: 1em;
+    margin-top: 2em;
+  }
+
+  .lightbild {
+    position: relative;
+    float: left;
+    margin-left: 1em;
+  }
+
+  .lightheavybild {
+    position: relative;
+    float: left;
+    margin-top: 2em;
+  }
+
+  .wstrawbild {
+    position: relative;
+    float: left;
+    margin-top: 2em;
+  }
+
+  .p4pbild {
+    position: relative;
+    float: left;
+
+    margin-top: 2em;
+  }
+
+  .fly {
+    position: relative;
+    float: left;
+  }
+
+  .bantam {
+    position: relative;
+    float: left;
+  }
+
+  .feather {
+    position: relative;
+    float: left;
+  }
+
+  .light {
+    position: relative;
+    float: left;
+  }
+
+  .welter {
+    position: relative;
+    float: left;
+  }
+
+  .middle {
+    position: relative;
+    float: left;
+  }
+
+  .lightheavy {
+    position: relative;
+    float: left;
+  }
+
+  .heavy {
+    position: relative;
+    float: left;
+  }
+
+  .straw {
+    position: relative;
+    float: left;
+  }
+
+  .wfly {
+    position: relative;
+    float: left;
+  }
+
+  .wbantam {
+    position: relative;
+    float: left;
+  }
+
+  .wfeather {
+    position: relative;
+    float: left;
+  }
+
+  .p4p {
+    position: relative;
+    float: left;
+  }
+
+  .wp4p {
+    position: relative;
+    float: left;
+  }
+
+  .fighterrubrik {
+    position: relative;
+    margin-left: 16em;
+    font-family: sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+
+  .fighterrubrik1 {
+    position: relative;
+    margin-left: 15.5em;
+    font-family: sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+
+  .fighterrubrik2 {
+    position: relative;
+    margin-left: 17em;
+    font-family: sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+
+  .fightersmeknamn {
+    position: relative;
+    margin-left: 27.15em;
+    font-family: sans-serif;
+    font-size: 1.5em;
+  }
+
+  .fightersmeknamn1 {
+    position: relative;
+    margin-left: 29.5em;
+    font-family: sans-serif;
+    font-size: 1.5em;
+  }
+
+  .fightersmeknamn2 {
+    position: relative;
+    margin-left: 29.7em;
+    font-family: sans-serif;
+    font-size: 1.5em;
+  }
+
+  #fighterinfo {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+  }
+
+  #info {
+    position: relative;
+    margin-top: 2em;
+    left: 1em;
+  }
+
+  #ii {
+    position: relative;
+    float: left;
+  }
+
+  #fhtitel {
+    left: 22.9em;
+  }
+
+  #fh {
+    border-style: solid;
+    border-color: #dee0e3;
+    border-width: thin;
+    margin-top: 1em;
+  }
+  #infocontainer {
+    left: 10em;
+    position: relative;
+  }
+
+  .fighterinfobild {
+    float: left;
+    position: relative;
+    margin-top: -4em;
+    margin-left: 20em;
+  }
+
+  .fighterinfobild2 {
+    float: left;
+    position: relative;
+    margin-top: -21.6em;
+    margin-left: 62.5em;
+  }
+
+  .fighterinfobild3 {
+    float: left;
+    position: relative;
+    margin-top: -21.6em;
+    margin-left: 63.5em;
+  }
+}
